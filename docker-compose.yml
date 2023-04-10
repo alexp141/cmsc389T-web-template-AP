@@ -8,6 +8,8 @@ services:
       dockerfile: Dockerfile
     image: website
     container_name: website
+    volumes:
+      - web-root:/home/node/app
     networks:
       - app-network
   
