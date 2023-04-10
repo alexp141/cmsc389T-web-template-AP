@@ -14,8 +14,11 @@ Rose quartz: #B2A3B5
 ## CSS
 .img -> where you can adjust image size
 
-## Site link:
+## Github Pages Link:
 https://alexp141.github.io/cmsc389T-web-template-AP/
+
+## Terpconnect Link:
+https://terpconnect.umd.edu/~apastor/index.html
 
 ## Changes
 Made changes to the color scheme of the website template
