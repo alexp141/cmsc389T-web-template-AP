@@ -18,7 +18,7 @@ Rose quartz: #B2A3B5
 https://alexp141.github.io/cmsc389T-web-template-AP/
 
 ## Terpconnect Link:
-https://terpconnect.umd.edu/~apastor/index.html
+https://terpconnect.umd.edu/~apastor/cmsc389T-web-template-AP/
 
 ## Changes
 Made changes to the color scheme of the website template
