@@ -13,3 +13,9 @@ Rose quartz: #B2A3B5
 
 ## CSS
 .img -> where you can adjust image size
+
+## Site link:
+https://alexp141.github.io/cmsc389T-web-template-AP/
+
+## Changes
+Made changes to the color scheme of the website template
