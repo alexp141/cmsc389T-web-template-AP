@@ -15,5 +15,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-              cd /pub/apastor
+              cd /pub/apastor/cmsc389T-web-template-AP
               git pull
