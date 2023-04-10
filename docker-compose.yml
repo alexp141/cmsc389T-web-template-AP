@@ -29,7 +29,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: /Users/alexanderpastor/CMSC389T/p5
+      device: /Users/alexanderpastor/CMSC389T/p5/cmsc389T-web-template-AP
       o: bind
 
 networks:
