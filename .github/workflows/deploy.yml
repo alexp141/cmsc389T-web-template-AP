@@ -17,3 +17,5 @@ jobs:
           script: |
               cd cmsc389T-web-template-AP
               git pull
+              cd ..
+              \cp -R cmsc389T-web-template-AP/* /pub/apastor
